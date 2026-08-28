@@ -1,0 +1,18 @@
+# virtual env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# large / regeneratable data (see data/samples/ for small committed examples)
+data/raw/sensor_logs.csv
+data/raw/claims.csv
+data/raw/customers.csv
+data/raw/devices.csv
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
