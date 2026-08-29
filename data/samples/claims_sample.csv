@@ -1,0 +1,11 @@
+claim_id,device_id,customer_id,model,days_since_install,days_to_warranty_expiry,claim_reason,true_scenario,is_fraud,claim_date
+CLM-0002134,DEV-0003307,CUST-002528,AquaHeat SH-200,101,619,error_code_fault,normal_defect,0,2024-09-04
+CLM-0001606,DEV-0003209,CUST-002457,AquaHeat SH-200,726,-6,no_heat,misuse_claimed_as_defect,1,2024-09-04
+CLM-0002652,DEV-0001134,CUST-000859,AquaHeat SH-400 Pro,261,459,unusual_noise,normal_defect,0,2024-09-04
+CLM-0003439,DEV-0000191,CUST-000148,AquaHeat SH-400 Pro,152,568,leak,misuse_claimed_as_defect,1,2024-09-06
+CLM-0002711,DEV-0001457,CUST-001102,AquaHeat SH-200,322,398,error_code_fault,tamper_before_failure,0,2024-09-07
+CLM-0001155,DEV-0002738,CUST-002096,AquaHeat SH-Compact,708,12,error_code_fault,timing_gaming,0,2024-09-10
+CLM-0003565,DEV-0002198,CUST-001670,AquaHeat SH-200,454,266,unusual_noise,heavy_but_legit_use,0,2024-09-13
+CLM-0003772,DEV-0002423,CUST-001849,AquaHeat SH-200,695,25,no_heat,tamper_before_failure,1,2024-09-14
+CLM-0001247,DEV-0003249,CUST-002489,AquaHeat SH-Compact,143,577,error_code_fault,heavy_but_legit_use,0,2024-09-14
+CLM-0001152,DEV-0001789,CUST-001355,AquaHeat SH-200,681,39,other,timing_gaming,1,2024-09-19
