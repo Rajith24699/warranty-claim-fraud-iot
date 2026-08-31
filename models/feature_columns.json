@@ -1,0 +1,39 @@
+{
+  "numeric": [
+    "days_since_install",
+    "days_to_warranty_expiry",
+    "customer_prior_claims_count",
+    "customer_devices_owned",
+    "pct_of_warranty_elapsed",
+    "n_days_observed",
+    "telemetry_uptime_pct",
+    "telemetry_uptime_pct_recent14",
+    "max_consecutive_missing_days",
+    "temp_mean",
+    "temp_max",
+    "temp_std",
+    "pct_days_over_rated_temp",
+    "pressure_mean",
+    "pressure_max",
+    "pct_days_over_rated_pressure",
+    "vibration_mean",
+    "vibration_max",
+    "runtime_hours_mean",
+    "runtime_hours_mean_recent14",
+    "runtime_hours_mean_prior",
+    "pct_days_over_rated_duty",
+    "error_code_total",
+    "error_code_recent14",
+    "power_draw_mean",
+    "usage_spike_ratio_recent_vs_prior",
+    "rated_max_temp_c",
+    "rated_max_pressure_kpa",
+    "rated_duty_cycle_hrs_day",
+    "unit_price_usd",
+    "anomaly_score"
+  ],
+  "categorical": [
+    "model",
+    "claim_reason"
+  ]
+}
